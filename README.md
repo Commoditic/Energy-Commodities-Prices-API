@@ -17,10 +17,10 @@ The users of Commoditic's energy commodities prices data are of diverse backgrou
 <li><strong>Ethanol</strong></li>
 <li><strong>Methanol</strong></li>
 
-<h2>Ways to access financial ratios data</h2>
+<h2>Ways to access energy commodities prices data</h2>
 <ul>
  	<li><strong>JSON REST API</strong></li>
- 	<li><strong>Excel CSV download</strong></li>
+ 	<li><strong>Downloadable databases in Excel CSV files </strong></li>
 </ul>
 
 <h2>Documentation</h2>
@@ -54,5 +54,5 @@ https://commoditic.com/api/v1/commodities
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
 <h2>Legal</h2>
-<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="/"> hhttps://commoditic.com/terms-and-conditions/</a></p>
+<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="/"> https://commoditic.com/terms-and-conditions/</a></p>
 
