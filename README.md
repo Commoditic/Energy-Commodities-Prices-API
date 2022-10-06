@@ -31,12 +31,13 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
 <p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=energy </a></p>
 
 
-{
+ 
+       
     "status": {
         "message": "Success"
     },
     "results": [
-        {
+     {
             "category": "Energy",
             "Name": "Crude Oil"
             "Unit": "USD/Bbl"
@@ -47,8 +48,8 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Monthly Percentage Change": "-5.14%"
             "Yearly Percentage Change": "44.51%"
             "Date": "2022.07.01"
-        }
-    [
+ 
+ 
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
