@@ -27,8 +27,9 @@ The users of Commoditic's energy commodities prices data are of diverse backgrou
 
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
-https://commoditic.com/api/v1/commodities
-    ?key=[API-KEY]&category=energy
+<p><strong>API endpoints<p>
+<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=energy </a></p>
+
 
 {
     "status": {
@@ -48,11 +49,10 @@ https://commoditic.com/api/v1/commodities
             "Date": "2022.07.01"
         }
     [
-}
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
 
 <h2>Legal</h2>
-<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href="/"> https://commoditic.com/terms-and-conditions/</a></p>
+<p> The use of Commoditic proprietary data and API database is subject to the&nbsp;<a href=https://commoditic.com/terms-and-conditions/">Terms and Conditions</a></p>
 
