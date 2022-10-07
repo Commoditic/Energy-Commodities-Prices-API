@@ -28,7 +28,7 @@ The users of Commoditic's energy commodities prices data are of diverse backgrou
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
 <p><strong>API endpoints<p>
-<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=energy </a></p>
+<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=energy </a></p>
 
 
  
@@ -50,6 +50,49 @@ Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation
             "Date": "2022.07.01"
  
  
+<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&category=energy </a></p>
+
+
+    "status": {
+        "message": "Success"
+    },
+    "results": [
+        {
+            "category": "Energy",
+            "Name": "Crude Oil"
+            "Unit": "USD/Bbl"
+            "Price": "108.430"
+            "Day Price Change": "2.670"
+            "Day Percentage Change": "2.52%"
+            "Weekly Percentage Change": "0.75%"
+            "Monthly Percentage Change": "-5.14%"
+            "Yearly Percentage Change": "44.51%"
+            "Date": "2022.07.01"
+            
+            
+            "category": "Energy",
+            "Name": "Coal"
+            "Unit": "USD/T"
+            "Price": "385.00"
+            "Day Price Change": "-15.00"
+            "Day Percentage Change": "-3.75%"
+            "Weekly Percentage Change": "-11.23%"
+            "Monthly Percentage Change": "-12.50%"
+            "Yearly Percentage Change": "61.36%"
+            "Date": "2022.10.07"
+            
+            
+            "category": "Energy",
+            "Name": "UK gas"
+            "Unit": "GBp/thm"
+            "Price": "293.8900"
+            "Day Price Change": "31.1300"
+            "Day Percentage Change": "-9.58%"
+            "Weekly Percentage Change": "-16.72%"
+            "Monthly Percentage Change": "-28.48%"
+            "Yearly Percentage Change": "32.26%"
+            "Date": "2022.10.07"
+            
 
 <h2>Customer support</h2>
 In case that you encounter a data issue, please contact us at support@commoditic.com.
