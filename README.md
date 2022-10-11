@@ -28,7 +28,7 @@ The users of Commoditic's energy commodities prices data are of diverse backgrou
 Our <a href="https://commoditic.com/documentation/" rel="nofollow">documentation</a> includes input API filtering parameters, output response objects with explanation of their meanings. Clear request and response examples are given on the documentation page.
 
 <p><strong>API endpoints<p>
-<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=energy </a></p>
+<p><a href="https://commoditic.com/energy-commodities-prices-api/">https://api.commoditic.com/api/v1/commodities?key=[API-KEY]&name=crude_oil </a></p>
 
 
  
